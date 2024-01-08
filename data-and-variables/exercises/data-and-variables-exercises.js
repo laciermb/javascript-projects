@@ -3,7 +3,7 @@ let shuttlename = 'Determination';
 let shuttpleSpeedMph = 17500;
 let distanceToMarsKm = 225000000;
 let distanceToMoonKm = 38400;
-cons milesPerKm = 0.621;
+const milesPerKm = 0.621;
 
 console.log (typeof "Determination")
 console.log (typeof 17500)
